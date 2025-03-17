@@ -1,0 +1,120 @@
+0,303,True,Hydromorphone,False,False,True
+48,715,False,DiphenhydrAMINE,False,True,False
+99,1590,True,Morphine Sulfate IR,False,False,True
+216,2945,False,Olanzapine,True,True,False
+238,2170,True,Potassium Chloride,False,False,True
+280,4966,True,Heparin,False,False,True
+1242,6374,True,Metoprolol,False,False,True
+1277,5571,False,Phenytoin Sodium,False,True,False
+1305,6391,True,NS,False,False,True
+1314,12274,True,Azithromycin,False,False,True
+1415,10780,True,Bisacodyl,False,False,True
+1458,12907,True,Docusate Sodium,False,False,True
+1478,23707,False,Ranitidine (Liquid),False,True,False
+6928,25989,True,Magnesium Oxide,False,False,True
+7145,25736,True,Vancomycin HCl,False,False,True
+7532,27812,False,D5W,False,False,True
+7551,27755,True,D5 1/2NS,False,False,True
+7773,27799,True,Potassium Chloride,True,False,False
+8187,29125,False,Potassium Chl 40 mEq / 1000 mL D5 1/2 NS,False,False,True
+8248,27247,True,0.9% Sodium Chloride,False,False,True
+8385,29355,False,Atorvastatin,False,False,True
+8488,28655,False,Potassium Chl 40 mEq / 1000 mL NS,False,False,True
+8561,28551,False,Potassium Chloride,True,False,False
+8641,28557,True,Phenylephrine,False,False,True
+8717,30195,True,Nitroglycerin,False,False,True
+8888,30340,True,Vancomycin,False,False,True
+9054,28162,False,Potassium Chloride,False,False,True
+9126,28435,False,Insulin,False,False,True
+9193,30525,True,1/2 NS,False,False,True
+9206,30243,True,Lorazepam,True,False,False
+9533,31602,False,Aripiprazole,False,False,True
+9581,32138,False,Diazepam,False,False,True
+9599,31680,True,NS,False,False,True
+9708,42683,False,Oxcarbazepine,False,True,False
+10074,32716,True,D5W,False,False,True
+10163,31108,True,Iso-Osmotic Sodium Chloride,False,False,True
+10210,41308,True,Senna,False,False,True
+10242,31037,True,HYDROmorphone (Dilaudid),False,False,True
+10292,46446,False,Levothyroxine Sodium,False,False,True
+10307,46093,False,Calcium Gluconate,False,False,True
+10359,32493,True,Potassium Chloride,False,False,True
+10451,47808,True,0.9% Sodium Chloride,False,False,True
+10469,41119,True,Heparin,False,False,True
+10532,51179,True,Furosemide,False,False,True
+10643,44677,True,0.9% Sodium Chloride,True,False,False
+10690,51538,True,Gabapentin,False,False,True
+10736,50494,True,Bisacodyl,False,False,True
+10830,49104,True,Aspirin EC,False,False,True
+10920,51964,True,Dexamethasone,False,False,True
+10994,49080,True,LR,False,False,True
+11012,49092,False,5% Dextrose,False,False,True
+11084,54655,True,Soln,False,False,True
+11223,54047,True,Nicotine Patch,False,False,True
+11262,53006,True,Famotidine,False,False,True
+11265,55931,True,Syringe,False,False,True
+11287,53156,True,Insulin,False,False,True
+11358,59612,True,Morphine Sulfate,False,False,True
+11379,60139,False,Magnesium Sulfate,False,False,True
+11456,59707,True,Acyclovir,False,False,True
+11624,57120,True,Chlorhexidine Gluconate 0.12% Oral Rinse,False,False,True
+11634,58518,True,LR,False,False,True
+11708,58706,True,OxycoDONE (Immediate Release),True,False,False
+11881,57207,True,Diazepam,True,False,False
+11921,58810,True,Iso-Osmotic Dextrose,False,False,True
+12167,57369,True,0.9% Sodium Chloride,False,False,True
+12234,58593,False,HYDROmorphone (Dilaudid),False,False,True
+12326,61237,True,LR,False,False,True
+12337,61316,False,Calcium Carbonate,False,False,True
+12380,60890,False,Zonisamide,False,False,True
+12531,68426,True,LeVETiracetam,False,False,True
+12629,62033,True,5% Dextrose,False,False,True
+12709,67862,True,CloniDINE,False,False,True
+12762,61809,True,Diazepam,True,False,False
+12849,61078,False,Calcium Carbonate,False,False,True
+13303,66804,False,0.9% Sodium Chloride,False,False,True
+13352,66851,True,0.9% Sodium Chloride,False,False,True
+13402,66706,True,Thiamine,True,False,False
+13481,69434,True,HydrOXYzine,False,False,True
+13703,73110,True,SW,False,False,True
+13822,70990,False,Bag,False,False,True
+13944,73398,False,0.9% Sodium Chloride,False,False,True
+13960,71146,False,Chlorhexidine Gluconate 0.12% Oral Rinse,False,False,True
+14130,71130,True,Propofol,False,False,True
+14349,70558,True,0.9% Sodium Chloride,False,False,True
+14549,70313,True,Fluticasone-Salmeterol Diskus (500/50),False,False,True
+14631,77609,True,Ampicillin-Sulbactam,False,False,True
+14713,74496,True,Propofol,False,False,True
+14899,74065,True,0.9% Sodium Chloride,False,False,True
+14921,81280,False,Bisacodyl,False,False,True
+14945,78647,True,Lorazepam,True,False,False
+14981,85138,True,Amiodarone,False,False,True
+15132,85033,True,Venlafaxine XR,False,False,True
+15199,79538,False,0.9% Sodium Chloride,False,False,True
+15280,86249,False,OxycoDONE (Immediate Release),False,False,True
+15407,77799,False,CeftriaXONE,False,False,True
+15460,85572,True,Gabapentin,True,False,False
+15549,85583,True,1/2 NS,False,False,True
+15590,86294,False,Senna,False,False,True
+15771,79929,True,Charcoal Aqueous (Activated),False,False,True
+15826,85689,False,Acetaminophen,False,False,True
+15893,90716,True,Isosorbide Mononitrate (Extended Release),False,False,True
+15917,84359,True,Fentanyl Citrate,False,False,True
+15963,90005,True,1/2 NS,True,False,False
+15983,82864,False,MethylPREDNISolone Sodium Succ,False,False,True
+16150,82380,False,Neutra-Phos,False,False,True
+16237,84208,True,Metoprolol Tartrate,False,False,True
+16379,89736,False,Calcium Carbonate,False,False,True
+16481,91001,False,0.9% Sodium Chloride,False,False,True
+16581,88857,True,Diazepam,True,False,False
+17829,87978,False,Fentanyl Citrate,False,False,True
+17947,91975,True,Morphine Sulfate,True,False,False
+18011,94869,False,Tetanus-DiphTox-Acellular Pertuss (Adacel),False,False,True
+18035,94634,True,CloniDINE,False,False,True
+18051,92050,True,RiTONAvir,False,False,True
+18086,93084,True,Iso-Osmotic Dextrose,False,False,True
+18141,94075,True,Famotidine,False,False,True
+18176,97974,False,Ritonavir (Oral Solution),False,False,True
+18321,96463,True,Propofol,True,False,False
+18339,98177,True,0.9% Sodium Chloride,False,False,True
+18361,96763,False,Potassium Chloride,False,False,True

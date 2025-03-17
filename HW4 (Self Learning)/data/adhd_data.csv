@@ -1,122 +1,121 @@
-subject_id,gender,hallucinations,ocd,icustay_id,drug
-0,303,M,False,False,NaN,NaN
-1,715,F,False,True,NaN,DiphenhydrAMINE
-2,1590,M,False,False,NaN,NaN
-3,2945,F,True,True,NaN,Olanzapine
-5,2170,M,False,False,NaN,NaN
-6,4966,M,False,False,NaN,NaN
-8,6374,M,False,False,NaN,NaN
-9,5571,F,False,True,239647.0,Phenytoin Sodium
-10,6391,M,False,False,NaN,NaN
-11,12274,M,False,False,NaN,NaN
-12,10780,M,False,False,NaN,NaN
-13,12907,M,False,False,NaN,NaN
-14,23707,F,False,True,215476.0,Ranitidine (Liquid)
-19,25989,M,False,False,NaN,NaN
-20,25736,M,False,False,NaN,NaN
-21,27812,F,False,False,NaN,NaN
-22,27755,M,False,False,NaN,NaN
-23,27799,M,True,False,221948.0,Potassium Chloride
-26,29125,F,False,False,NaN,NaN
-27,27247,M,False,False,NaN,NaN
-28,29355,F,False,False,NaN,NaN
-29,28655,F,False,False,NaN,NaN
-30,28551,F,True,False,286543.0,Potassium Chloride
-31,28557,M,False,False,NaN,NaN
-32,30195,M,False,False,NaN,NaN
-33,30340,M,False,False,NaN,NaN
-34,28162,F,False,False,NaN,NaN
-35,28435,F,False,False,NaN,NaN
-36,30525,M,False,False,NaN,NaN
-37,30243,M,True,False,293578.0,Lorazepam
-40,31602,F,False,False,NaN,NaN
-41,32138,F,False,False,NaN,NaN
-42,31680,M,False,False,NaN,NaN
-43,42683,F,False,True,209735.0,Oxcarbazepine
-45,32716,M,False,False,NaN,NaN
-46,31108,M,False,False,NaN,NaN
-47,41308,M,False,False,NaN,NaN
-48,31037,M,False,False,NaN,NaN
-49,46446,F,False,False,NaN,NaN
-50,46093,F,False,False,NaN,NaN
-51,32493,M,False,False,NaN,NaN
-52,47808,M,False,False,NaN,NaN
-53,41119,M,False,False,NaN,NaN
-54,51179,M,False,False,NaN,NaN
-55,44677,M,True,False,227847.0,0.9% Sodium Chloride
-56,51538,M,False,False,NaN,NaN
-57,50494,M,False,False,NaN,NaN
-58,49104,M,False,False,NaN,NaN
-59,51964,M,False,False,NaN,NaN
-60,49080,M,False,False,NaN,NaN
-61,49092,F,False,False,NaN,NaN
-62,54655,M,False,False,NaN,NaN
-63,54047,M,False,False,NaN,NaN
-64,53006,M,False,False,NaN,NaN
-65,55931,M,False,False,NaN,NaN
-66,53156,M,False,False,NaN,NaN
-67,59612,M,False,False,NaN,NaN
-68,60139,F,False,False,NaN,NaN
-69,59707,M,False,False,NaN,NaN
-70,57120,M,False,False,NaN,NaN
-71,58518,M,False,False,NaN,NaN
-72,58706,M,True,False,240714.0,OxycoDONE (Immediate Release)
-73,57207,M,True,False,286604.0,Diazepam
-74,58810,M,False,False,NaN,NaN
-76,57369,M,False,False,NaN,NaN
-77,58593,F,False,False,NaN,NaN
-78,61237,M,False,False,NaN,NaN
-79,61316,F,False,False,NaN,NaN
-80,58029,M,False,False,NaN,NaN
-81,60890,F,False,False,NaN,NaN
-82,68426,M,False,False,NaN,NaN
-83,62033,M,False,False,NaN,NaN
-84,67862,M,False,False,NaN,NaN
-85,61809,M,True,False,246414.0,Diazepam
-86,61078,F,False,False,NaN,NaN
-88,66804,F,False,False,NaN,NaN
-89,66851,M,False,False,NaN,NaN
-90,66706,M,True,False,264231.0,Thiamine
-91,69434,M,False,False,NaN,NaN
-92,73110,M,False,False,NaN,NaN
-93,70990,F,False,False,NaN,NaN
-94,73398,F,False,False,NaN,NaN
-95,71146,F,False,False,NaN,NaN
-97,71130,M,False,False,NaN,NaN
-98,70558,M,False,False,NaN,NaN
-100,70313,M,False,False,NaN,NaN
-101,77609,M,False,False,NaN,NaN
-102,74496,M,False,False,NaN,NaN
-103,74065,M,False,False,NaN,NaN
-104,81280,F,False,False,NaN,NaN
-105,78647,M,True,False,NaN,Lorazepam
-106,85138,M,False,False,NaN,NaN
-107,85033,M,False,False,NaN,NaN
-108,79538,F,False,False,NaN,NaN
-109,86249,F,False,False,NaN,NaN
-110,77799,F,False,False,NaN,NaN
-111,85572,M,True,False,NaN,Gabapentin
-112,85583,M,False,False,NaN,NaN
-113,86294,F,False,False,NaN,NaN
-114,79929,M,False,False,NaN,NaN
-115,85689,F,False,False,NaN,NaN
-116,90716,M,False,False,NaN,NaN
-117,84359,M,False,False,NaN,NaN
-118,90005,M,True,False,201400.0,1/2 NS
-119,82864,F,False,False,NaN,NaN
-120,82380,F,False,False,NaN,NaN
-121,84208,M,False,False,NaN,NaN
-122,89736,F,False,False,NaN,NaN
-123,91001,F,False,False,NaN,NaN
-124,88857,M,True,False,NaN,Diazepam
-130,87978,F,False,False,NaN,NaN
-132,91975,M,True,False,290720.0,Morphine Sulfate
-133,94869,F,False,False,NaN,NaN
-134,94634,M,False,False,NaN,NaN
-135,92050,M,False,False,NaN,NaN
-136,93084,M,False,False,NaN,NaN
-137,94075,M,False,False,NaN,NaN
-138,97974,F,False,False,NaN,NaN
-139,96463,M,True,False,285758.0,Propofol
-140,98177,M,False,False,NaN,NaN
-141,96763,F,False,False,NaN,NaN
+subject_id,gender,drug,hallucinations,ocd
+0,303,True,Hydromorphone,False,False
+48,715,False,DiphenhydrAMINE,False,True
+99,1590,True,Morphine Sulfate IR,False,False
+216,2945,False,Olanzapine,True,True
+238,2170,True,Potassium Chloride,False,False
+280,4966,True,Heparin,False,False
+1242,6374,True,Metoprolol,False,False
+1277,5571,False,Phenytoin Sodium,False,True
+1305,6391,True,NS,False,False
+1314,12274,True,Azithromycin,False,False
+1415,10780,True,Bisacodyl,False,False
+1458,12907,True,Docusate Sodium,False,False
+1478,23707,False,Ranitidine (Liquid),False,True
+6928,25989,True,Magnesium Oxide,False,False
+7145,25736,True,Vancomycin HCl,False,False
+7532,27812,False,D5W,False,False
+7551,27755,True,D5 1/2NS,False,False
+7773,27799,True,Potassium Chloride,True,False
+8187,29125,False,Potassium Chl 40 mEq / 1000 mL D5 1/2 NS,False,False
+8248,27247,True,0.9% Sodium Chloride,False,False
+8385,29355,False,Atorvastatin,False,False
+8488,28655,False,Potassium Chl 40 mEq / 1000 mL NS,False,False
+8561,28551,False,Potassium Chloride,True,False
+8641,28557,True,Phenylephrine,False,False
+8717,30195,True,Nitroglycerin,False,False
+8888,30340,True,Vancomycin,False,False
+9054,28162,False,Potassium Chloride,False,False
+9126,28435,False,Insulin,False,False
+9193,30525,True,1/2 NS,False,False
+9206,30243,True,Lorazepam,True,False
+9533,31602,False,Aripiprazole,False,False
+9581,32138,False,Diazepam,False,False
+9599,31680,True,NS,False,False
+9708,42683,False,Oxcarbazepine,False,True
+10074,32716,True,D5W,False,False
+10163,31108,True,Iso-Osmotic Sodium Chloride,False,False
+10210,41308,True,Senna,False,False
+10242,31037,True,HYDROmorphone (Dilaudid),False,False
+10292,46446,False,Levothyroxine Sodium,False,False
+10307,46093,False,Calcium Gluconate,False,False
+10359,32493,True,Potassium Chloride,False,False
+10451,47808,True,0.9% Sodium Chloride,False,False
+10469,41119,True,Heparin,False,False
+10532,51179,True,Furosemide,False,False
+10643,44677,True,0.9% Sodium Chloride,True,False
+10690,51538,True,Gabapentin,False,False
+10736,50494,True,Bisacodyl,False,False
+10830,49104,True,Aspirin EC,False,False
+10920,51964,True,Dexamethasone,False,False
+10994,49080,True,LR,False,False
+11012,49092,False,5% Dextrose,False,False
+11084,54655,True,Soln,False,False
+11223,54047,True,Nicotine Patch,False,False
+11262,53006,True,Famotidine,False,False
+11265,55931,True,Syringe,False,False
+11287,53156,True,Insulin,False,False
+11358,59612,True,Morphine Sulfate,False,False
+11379,60139,False,Magnesium Sulfate,False,False
+11456,59707,True,Acyclovir,False,False
+11624,57120,True,Chlorhexidine Gluconate 0.12% Oral Rinse,False,False
+11634,58518,True,LR,False,False
+11708,58706,True,OxycoDONE (Immediate Release),True,False
+11881,57207,True,Diazepam,True,False
+11921,58810,True,Iso-Osmotic Dextrose,False,False
+12167,57369,True,0.9% Sodium Chloride,False,False
+12234,58593,False,HYDROmorphone (Dilaudid),False,False
+12326,61237,True,LR,False,False
+12337,61316,False,Calcium Carbonate,False,False
+12380,60890,False,Zonisamide,False,False
+12531,68426,True,LeVETiracetam,False,False
+12629,62033,True,5% Dextrose,False,False
+12709,67862,True,CloniDINE,False,False
+12762,61809,True,Diazepam,True,False
+12849,61078,False,Calcium Carbonate,False,False
+13303,66804,False,0.9% Sodium Chloride,False,False
+13352,66851,True,0.9% Sodium Chloride,False,False
+13402,66706,True,Thiamine,True,False
+13481,69434,True,HydrOXYzine,False,False
+13703,73110,True,SW,False,False
+13822,70990,False,Bag,False,False
+13944,73398,False,0.9% Sodium Chloride,False,False
+13960,71146,False,Chlorhexidine Gluconate 0.12% Oral Rinse,False,False
+14130,71130,True,Propofol,False,False
+14349,70558,True,0.9% Sodium Chloride,False,False
+14549,70313,True,Fluticasone-Salmeterol Diskus (500/50),False,False
+14631,77609,True,Ampicillin-Sulbactam,False,False
+14713,74496,True,Propofol,False,False
+14899,74065,True,0.9% Sodium Chloride,False,False
+14921,81280,False,Bisacodyl,False,False
+14945,78647,True,Lorazepam,True,False
+14981,85138,True,Amiodarone,False,False
+15132,85033,True,Venlafaxine XR,False,False
+15199,79538,False,0.9% Sodium Chloride,False,False
+15280,86249,False,OxycoDONE (Immediate Release),False,False
+15407,77799,False,CeftriaXONE,False,False
+15460,85572,True,Gabapentin,True,False
+15549,85583,True,1/2 NS,False,False
+15590,86294,False,Senna,False,False
+15771,79929,True,Charcoal Aqueous (Activated),False,False
+15826,85689,False,Acetaminophen,False,False
+15893,90716,True,Isosorbide Mononitrate (Extended Release),False,False
+15917,84359,True,Fentanyl Citrate,False,False
+15963,90005,True,1/2 NS,True,False
+15983,82864,False,MethylPREDNISolone Sodium Succ,False,False
+16150,82380,False,Neutra-Phos,False,False
+16237,84208,True,Metoprolol Tartrate,False,False
+16379,89736,False,Calcium Carbonate,False,False
+16481,91001,False,0.9% Sodium Chloride,False,False
+16581,88857,True,Diazepam,True,False
+17829,87978,False,Fentanyl Citrate,False,False
+17947,91975,True,Morphine Sulfate,True,False
+18011,94869,False,Tetanus-DiphTox-Acellular Pertuss (Adacel),False,False
+18035,94634,True,CloniDINE,False,False
+18051,92050,True,RiTONAvir,False,False
+18086,93084,True,Iso-Osmotic Dextrose,False,False
+18141,94075,True,Famotidine,False,False
+18176,97974,False,Ritonavir (Oral Solution),False,False
+18321,96463,True,Propofol,True,False
+18339,98177,True,0.9% Sodium Chloride,False,False
+18361,96763,False,Potassium Chloride,False,False
