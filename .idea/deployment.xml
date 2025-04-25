@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" deleteMissingItems="true" createEmptyFolders="true" confirmBeforeDeletion="false" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Pegasus (AIH)" deleteMissingItems="true" createEmptyFolders="true" confirmBeforeDeletion="false" autoUploadExternalChanges="true">
     <option name="confirmBeforeDeletion" value="false" />
     <serverData>
+      <paths name="Pegasus (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_122" local="$PROJECT_DIR$" />
+            <mapping />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="Pegasus (AIH)">
         <serverdata>
           <mappings>
