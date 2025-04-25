@@ -7,7 +7,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkName" value="AIHC" />
+              <option name="sdkName" value="medvit" />
             </JupyterConnectionParameters>
           </value>
         </entry>
